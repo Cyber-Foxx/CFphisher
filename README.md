@@ -49,13 +49,13 @@ $ bash CFphisher.sh
 
 
 
-#### Run on Docker:
+### Run on Docker:
 
 $ docker pull Cyber-Foxx/CFshisher
 $ docker run --rm -it Cyber-Foxx/CFphisher
 
 
-### Dependencies:
+#### Dependencies:
 
 **`CFphisher`** requires following programs to run properly -
 
