@@ -49,3 +49,13 @@ $ bash CFphisher.sh
 
 $ docker pull htrtech/zphisher
 $ docker run --rm -it htrtech/zphisher
+
+
+## Dependencies:
+
+*CFphisher requires following programs to run properly -
+
+* php
+* wget
+* curl
+git
