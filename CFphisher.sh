@@ -82,7 +82,7 @@ banner() {
 		${ORANGE} o 
    ${ORANGE} u                                 
 		${ORANGE} s                    ${RED}Version : 2.2
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Cyber-Foxx (Mr Anonymous)${WHITE}
 	EOF
 }
 
