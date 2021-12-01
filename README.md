@@ -15,9 +15,20 @@ Cloudflared (Alternative of Ngrok)
 
 ### Installation:
 
-Just, Clone this repository -
+* Just, Clone this repository -
+
 $ git clone git://github.com/Cyber-Foxx/CFphisher.git
 Change to cloned directory and run CFphisher.sh -
+
 $ cd CFphisher
+
 $ bash CFphisher.sh
-On first launch, It'll install the dependencies and that's it. CFphisher is installed.
+
+*On first launch, It'll install the dependencies and that's it. CFphisher is installed.
+
+
+
+# Run on Docker:
+
+$ docker pull htrtech/zphisher
+$ docker run --rm -it htrtech/zphisher
