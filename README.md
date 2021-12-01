@@ -63,11 +63,4 @@ $ docker run --rm -it Cyber-Foxx/CFphisher
 
 ##
 
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
-
 
