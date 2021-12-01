@@ -55,10 +55,10 @@ $ docker run --rm -it htrtech/zphisher
 
 **`CFphisher`** requires following programs to run properly -
 
-* php
-* wget
-* curl
-git
+- `php`
+- `wget`
+- `curl`
+- `git`
 
 
 > All the dependencies will be installed automatically when you run `Zphisher` for the first time.
