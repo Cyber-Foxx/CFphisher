@@ -49,13 +49,13 @@ $ bash CFphisher.sh
 
 
 
-### Run on Docker:
+#### Run on Docker:
 
 $ docker pull Cyber-Foxx/CFshisher
 $ docker run --rm -it Cyber-Foxx/CFphisher
 
 
-#### Dependencies:
+##### Dependencies:
 
 **`CFphisher`** requires following programs to run properly -
 
@@ -65,7 +65,7 @@ $ docker run --rm -it Cyber-Foxx/CFphisher
 - git
 
 
-# All the dependencies will be installed automatically when you run `CFphisher` for the first time.
+###### All the dependencies will be installed automatically when you run `CFphisher` for the first time.
 
-## Supported Platform :
+####### Supported Platform :
  * Termux, * Ubuntu/Debian/Kali/Parrot, * Arch Linux/Manjaro, * Fedora
