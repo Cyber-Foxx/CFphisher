@@ -59,3 +59,8 @@ $ docker run --rm -it htrtech/zphisher
 * wget
 * curl
 git
+
+
+> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+
+> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
