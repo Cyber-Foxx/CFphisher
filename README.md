@@ -45,10 +45,11 @@ $ bash CFphisher.sh
 
 
 
-# Run on Docker:
-
+### Run on Docker
+```
 $ docker pull htrtech/zphisher
 $ docker run --rm -it htrtech/zphisher
+```
 
 
 ## Dependencies:
