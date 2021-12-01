@@ -53,7 +53,7 @@ $ docker run --rm -it htrtech/zphisher
 
 ## Dependencies:
 
-*CFphisher requires following programs to run properly -
+**`CFphisher`** requires following programs to run properly -
 
 * php
 * wget
