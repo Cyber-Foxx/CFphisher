@@ -51,9 +51,8 @@ $ bash CFphisher.sh
 
 #### Run on Docker:
 
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
+$ docker pull Cyber-Foxx/CFshisher
+$ docker run --rm -it Cyber-Foxx/CFphisher
 
 
 ### Dependencies:
