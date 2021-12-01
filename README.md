@@ -1,6 +1,7 @@
 <!-- CFphisher -->
 
 
+
 ##
 
 <h3><p align="center">Disclaimer</p></h3>
@@ -15,8 +16,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##
 
-
-## Features: 
+### Features
 
 - Latest and updated login pages.
 - Mask URL support 
@@ -28,44 +28,46 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   - Cloudflared (Alternative of Ngrok)
 
 
-
-
-
-### Installation:
+### Installation
 
 - Just, Clone this repository -
 ```
 $ git clone git://github.com/Cyber-Foxx/CFphisher.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `CFphisher.sh` -
+```
+$ cd CFphisher
+$ bash CFphisher.sh
 ```
 
-$ cd CFphisher
+- On first launch, It'll install the dependencies and that's it. `CFphisher` is installed.
 
-$ bash CFphisher.sh
-
-*On first launch, It'll install the dependencies and that's it. CFphisher is installed.
-
-
-
-#### Run on Docker:
-
-$ docker pull Cyber-Foxx/CFshisher
+### Run on Docker
+```
+$ docker pull Cyber-Foxx/CFphisher
 $ docker run --rm -it Cyber-Foxx/CFphisher
+```
+
+### Dependencies
+
+**`CFphisher`** requires following programs to run properly - 
+- `php`
+- `wget`
+- `curl`
+- `git`
+
+> All the dependencies will be installed automatically when you run `CFphisher` for the first time.
+
+> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
+
+##
+
+<h3 align="center">
+:: Workflow ::
+</h3>
+<p align="center">
+<img src=".imgs/wf.gif"/>
+</p>
 
 
-##### Dependencies:
-
-**`CFphisher`** requires following programs to run properly -
-
-- php
-- wget
-- curl
-- git
-
-
-###### All the dependencies will be installed automatically when you run `CFphisher` for the first time.
-
-####### Supported Platform :
- * Termux, * Ubuntu/Debian/Kali/Parrot, * Arch Linux/Manjaro, * Fedora
